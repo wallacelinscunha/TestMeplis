@@ -1,0 +1,7 @@
+{
+  "name": "TesteMeplis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

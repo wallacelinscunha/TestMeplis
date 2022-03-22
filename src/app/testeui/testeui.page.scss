@@ -1,0 +1,8 @@
+.cell-class {
+    border-color: rgb(30%, 20%, 27%); /* The Fallback Ref.: https://css-tricks.com/rgba-browser-support/ */
+    border-color: rgba(30%, 20%, 27%, 70%);
+    border-width: 1px;
+    border-style: solid;
+    box-shadow: 10px 5px 5px gray;
+    margin: 16px 16px 16px 16px;  /* External padding */
+  }
