@@ -11,7 +11,7 @@ src/
 
 ## Installation
 
-[REQUIREMENT] NodeJs min 12.x
+[REQUIREMENTS] NodeJs min 12.20
 
 Install the Ionic CLI with npm:
 
